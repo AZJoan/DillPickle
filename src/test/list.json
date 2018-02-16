@@ -1,0 +1,25 @@
+{
+  "shoutouts":
+  [
+    {"name" : "Scott" ,
+      "quote" : "I like how you explain code."},
+    {"name" : "Koddie",
+      "quote" : "Thanks to Koddie for the new snacks!"},
+    {"name" : "Mark" ,
+      "quote" : "Shout out to Mark! He's a great partner to work with."},
+    {"name" : "Ted"  ,
+      "quote" : "Ted helped me to better understand my weekend challenge."},
+    {"name" : "Joan" ,
+      "quote" : "Joan helped me better understand the mini challenge."},
+    {"name" : "Lori" ,
+      "quote" : "I think Lori is thinking like a programmer and asking great questions."},
+    {"name" : "Manny" ,
+      "quote" : "Manny his patience and explanations helped me process the peer challenge."},
+    {"name" : "Zech"  ,
+      "quote" : "Zech walked me through each step and explained things that were confusing to me."},
+    {"name" : "Kym" ,
+      "quote" : "Kym was helpful and patient."},
+    {"name" : "Jake" ,
+      "quote" : "Shout out to Jake for working out our group challenge on the timer project."}
+  ]
+}
